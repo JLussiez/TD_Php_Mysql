@@ -60,20 +60,20 @@ h1 {
     /* background des liens menus */
   
     #menu li:first-child, #menu li:nth-child(2), #menu li:nth-child(3), #menu li:nth-child(4), #menu li:nth-child(5), #menu li:nth-child(6), #menu li:nth-child(7){
-    background-image: -webkit-linear-gradient(top, #2980b9 0%, #2c3e50 100%);
-    background-image:linear-gradient(to bottom, #2980b9 0%, #2c3e50 100%);
+    background-image: -webkit-linear-gradient(left,#5C258D 0%, #4389A2 100%);
+    background-image:linear-gradient(to right, #5C258D 0%, #4389A2 100%);
     }
     
     /* background des liens sous menus */
 
     #menu li:first-child li, #menu li:nth-child(2) li, #menu li:nth-child(3) li, #menu li:nth-child(4) li, #menu li:nth-child(5) li, #menu li:nth-child(6) li, #menu li:nth-child(7) li{
-    background:#47a13b;
+    background:#9876b6;
     }
     
     /* background des liens menus et sous menus au survol */
     
     #menu li:first-child:hover, #menu li:first-child li:hover, #menu li:nth-child(2):hover, #menu li:nth-child(2) li:hover, #menu li:nth-child(3):hover, #menu li:nth-child(3) li:hover, #menu li:nth-child(4):hover, #menu li:nth-child(4) li:hover, #menu li:nth-child(5):hover, #menu li:nth-child(5) li:hover, #menu li:nth-child(6):hover, #menu li:nth-child(6) li:hover, #menu li:nth-child(7):hover, #menu li:nth-child(7) li:hover{
-    background:#3c1695;
+    background:#90b8c7;
     }
     
     /* les liens */
@@ -81,15 +81,15 @@ h1 {
     text-decoration:none;
     display:block;
     padding:8px 32px;
-    color:rgb(160, 33, 172);
+    color:rgb(255, 255, 255);
     }
     #menu ul a{
     padding:8px 0;
     }
     #menu li:hover li a{
-    color:rgb(185, 37, 74);
+    color:rgb(0, 0, 0);
     text-transform:inherit;
     }
     #menu li:hover a, #menu li li:hover a{
-    color:rgb(194, 21, 21);
+    color:rgb(0, 0, 0);
     }
