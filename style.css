@@ -67,13 +67,13 @@ h1 {
     /* background des liens sous menus */
 
     #menu li:first-child li, #menu li:nth-child(2) li, #menu li:nth-child(3) li, #menu li:nth-child(4) li, #menu li:nth-child(5) li, #menu li:nth-child(6) li, #menu li:nth-child(7) li{
-    background:#9876b6;
+    background:#9b70c0;
     }
     
     /* background des liens menus et sous menus au survol */
     
     #menu li:first-child:hover, #menu li:first-child li:hover, #menu li:nth-child(2):hover, #menu li:nth-child(2) li:hover, #menu li:nth-child(3):hover, #menu li:nth-child(3) li:hover, #menu li:nth-child(4):hover, #menu li:nth-child(4) li:hover, #menu li:nth-child(5):hover, #menu li:nth-child(5) li:hover, #menu li:nth-child(6):hover, #menu li:nth-child(6) li:hover, #menu li:nth-child(7):hover, #menu li:nth-child(7) li:hover{
-    background:#90b8c7;
+    background:#81b7ca;
     }
     
     /* les liens */
