@@ -32,7 +32,7 @@
         </ul>
     </li>
 
-    <li><a href="#"><b>Exercices PHP Partie 1</b></a>
+    <li><a href="#"><b>Exercices PHP</b></a>
         <ul>
             <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex1/Ex1.php">Exercice n°1</a></li>
             <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex2/Ex2.1.php">Exercice n°2.1</a></li>
@@ -46,14 +46,6 @@
         </ul>
     </li>
 
-    <li><a href="#"><b>Exercices PHP Partie 2</b></a>
-        <ul>
-            <li><a href="../Exo CSS/Exo1CSS.html">Exercice n°1</a></li>
-            <li><a href="../Exo CSS/Exo2CSS.html">Exercice n°2</a></li>
-            <li><a href="../Exo CSS/Exo3CSS.html">Exercice n°3</a></li>
-            <li><a href="../Exo CSS/Exo4CSS.html">Exercice n°4</a></li>
-        </ul>
-    </li>
     <li><a href="#"><b>Exercices PHP BDD</b></a>
         <ul>
             <li><a href="../Exo CSS/Exo1CSS.html">Exercice n°1</a></li>
