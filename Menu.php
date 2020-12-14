@@ -22,24 +22,25 @@
 
     <li><a href="#"><b>Exercices CSS</b></a>
         <ul>
-            <li><a href="../Exo CSS/Exo1CSS.html">Exercice n°1</a></li>
-            <li><a href="../Exo CSS/Exo2CSS.html">Exercice n°2</a></li>
-            <li><a href="../Exo CSS/Exo3CSS.html">Exercice n°3</a></li>
-            <li><a href="../Exo CSS/Exo4CSS.html">Exercice n°4</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/CSS/Exo1.php">Exercice n°1</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/CSS/Exo2.php">Exercice n°2</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/CSS/Exo3.php">Exercice n°3</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/CSS/Exo4.php">Exercice n°4</a></li>
         </ul>
     </li>
 
     <li><a href="#"><b>Exercices PHP</b></a>
         <ul>
-            <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex1/Ex1.php">Exercice n°1</a></li>
-            <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex2/Ex2.1.php">Exercice n°2.1</a></li>
-            <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex2/Ex2.2.php">Exercice n°2.2</a></li>
-            <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex3/Ex3.php">Exercice n°3</a></li>
-            <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex4/Ex4.php">Exercice n°4</a></li>
-            <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex5/Ex5.php">Exercice n°5</a></li>
-            <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex6/Ex6.php">Exercice n°6</a></li>
-            <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex7/Ex7.php">Exercice n°7</a></li>
-            <li><a href="http://192.168.65.60/julien/TPWEB/PhP/TP1/Ex8/Ex8.php">Exercice n°7</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/PhP/TP1/Ex1/Ex1.php">Exercice n°1</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/PhP/TP1/Ex2/Ex2.1.php">Exercice n°2.1</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/PhP/TP1/Ex2/Ex2.2.php">Exercice n°2.2</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/PhP/TP1/Ex3/Ex3.php">Exercice n°3</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/PhP/TP1/Ex4/Ex4.php">Exercice n°4</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/PhP/TP1/Ex5/Ex5.php">Exercice n°5</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/PhP/TP1/Ex6/Ex6.php">Exercice n°6</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/PhP/TP1/Ex7/Ex7.php">Exercice n°7</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/PhP/TP1/Ex8/Ex8.php">Exercice n°7</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/PhP/TP1/ExFinal/ExFinal.php">Exercice Final</a></li>
         </ul>
     </li>
 
