@@ -6,20 +6,17 @@
     </head>
 
     <body>
-
-        <h1>Bienvenue sur l'Index de mes exercices :</h1>
-
         <div id="header">
 
             <ul id="menu">
 
     <li><a href="#"><b>Exercices HTML</b></a>
         <ul>
-            <li><a href="../exo html/exo1.html">Exercice n°1</a></li>
-            <li><a href="../exo html/exo2.html">Exercice n°2</a></li>
-            <li><a href="../exo html/exo3.html">Exercice n°3</a></li>
-            <li><a href="../exo html/exo4.html">Exercice n°4</a></li>
-            <li><a href="../exo html/exo5.html">Exercice n°5</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/HTML/Exo1.php">Exercice n°1</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/HTML/Exo2.php">Exercice n°2</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/HTML/Exo3.php">Exercice n°3</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/HTML/Exo4.php">Exercice n°4</a></li>
+            <li><a href="http://192.168.65.60/julien/TD_Php_Mysql/HTML/Exo5.php">Exercice n°5</a></li>
         </ul>
     </li>
 
