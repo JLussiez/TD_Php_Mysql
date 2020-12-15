@@ -1,3 +1,6 @@
+<?php
+include("Menu.php");
+?>
 <html>
     <head>
         <title>Cours Info</title>
@@ -22,6 +25,5 @@
             <p><div style="text-align:left">Bonjour FS=4</p>
             <p><div style="text-align:left">Bonjour FS=5</p>
             <p><div style="text-align:left">Bonjour FS=6</p>
-         <a href="../../TD_Php_Mysql/Index.php"><p>Retour</p></a>
     </body>
 </html>

@@ -1,3 +1,6 @@
+<?php
+include("Menu.php");
+?>
 <table border="1">
         <tr>
             <td> </td>
@@ -30,4 +33,3 @@
         </tr>
         </tr>
 </table>
-<a href="../../TD_Php_Mysql/Index.php"><p>Retour</p></a>

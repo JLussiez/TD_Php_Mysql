@@ -1,4 +1,5 @@
 <?php
+include("Menu.php");
 session_start();
 $_SESSION['nom'] = 0;
 $_SESSION['age'] = 0;

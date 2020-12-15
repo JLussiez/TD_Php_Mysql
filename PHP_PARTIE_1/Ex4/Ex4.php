@@ -1,5 +1,5 @@
 <?php
-
+include("Menu.php");
   function racines($a, $b, $c) {
 
     echo "Recherche des solutions de l'équation $a x² + $b x + $c<br>";

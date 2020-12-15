@@ -1,3 +1,6 @@
+<?php
+include("Menu.php");
+?>
 <html>
         <body>
             <style type="text/css">
@@ -24,6 +27,5 @@
                     <div id="bandeau">Bandeau</div>
                     <div id="contenu">Contenu</div>
                     <div id="piedpage">Pied de page</div>
-                    <a href="../../TD_Php_Mysql/Index.php"><p>Retour</p></a>
         <body>
 </html>

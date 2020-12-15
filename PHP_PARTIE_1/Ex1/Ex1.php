@@ -1,4 +1,5 @@
 <?php
+include("Menu.php");
 echo('<link rel="stylesheet" href="php.css" type="text/css">'); 
     $NombreAleatoire = rand ( 0 , 100 );
 

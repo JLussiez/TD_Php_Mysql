@@ -1,5 +1,5 @@
 <?php
-
+include("Menu.php");
 $tab = array ('5', '4', '3', '2', '1');
 $i = 0;
 

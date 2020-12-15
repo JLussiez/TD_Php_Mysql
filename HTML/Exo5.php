@@ -1,3 +1,6 @@
+<?php
+include("Menu.php");
+?>
 <html> 
     <head>
         <title>Cours Info1</title>
@@ -82,6 +85,5 @@
         </p>        
       <input type="submit" value="Envoyer" />
       <input type="reset" value="Remise a zéro" />
-      <a href="../../TD_Php_Mysql/Index.php"><p>Retour</p></a>
         </body>
 </html>

@@ -1,4 +1,5 @@
 <?php
+include("Menu.php");
 $infos = array (
     'Nom' => 'Julien',
     'Prenom' => 'Lussiez',
