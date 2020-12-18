@@ -1,31 +1,41 @@
-<!DOCTYPE php>
-    <html>
-        <head>
-            <title>TP2 - Exo 2</title>
-        </head>
+<html>
+    <head>
+    <link rel="stylesheet" href="../style.css">
+    </head>
+    <body>
+        <?php
+            include '../Menu.php';
+            menu ();
+        ?>
 
-        <body>
+            <p>
+            Les patients qui commencent par la lettre B
+            <img src="Images/PatientB.png">
+            </p>
 
-<?php 
-session_start();
-include('table.php'); 
-?>
+            <p>
+            Les consultations qui ont eu lieu après 18h
+            <img src="Images/apres18h.png">
+            </p>
 
-        </body>
+            <p>
+            Les médecins (nom et prénom) par ordre alphabétique de nom
+            <img src="Images/medecin_nom.png">
+            </p>
 
-<!-- Style dans le fichier HTML pour éviter un fichier CSS pour juste 2 lignes-->
-<style>
+            <p>
+            Les médecins et leurs patients (sans doublon)
+            <img src="Images/medecin_sansdoublon.png">
+            </p>
 
-    table{
-        border: solid black 1px;
-        margin: 5%;
-        text-align: center;
-    }
-    table td{
-        border: solid green 1px;
-    }
-
-</style>
-<!-- Fin du code CSS -->
-
-    </html>
+            <p>
+            Le nombre de médicaments référencés dans la base et le prix moyen
+            <img src="Images/MoyennePrix.png">
+            </p>
+            
+            <p>
+            Afficher les médicaments prescrits par 2 médecins et plus
+            <img src="Images/medoc2.png">
+            </p>
+    </body>
+</html>

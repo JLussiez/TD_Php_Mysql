@@ -1,4 +1,8 @@
 <?php
+include '../../Menu.php';
+menu ();
+?>
+<?php
 function formulaire($valeur1, $valeur2, $valeur3) {
     $valeurTotal = $valeur1+$valeur2+$valeur3;
     $moyenne = $valeurTotal/3;
@@ -10,6 +14,7 @@ function formulaire($valeur1, $valeur2, $valeur3) {
 <html lang="fr">
 <head>
 <title>Exo 3 - TP2</title>
+<link rel="stylesheet" href="../../style.css">
 </head>
 <body>
 

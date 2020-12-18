@@ -1,7 +1,12 @@
+<?php
+include '../../Menu.php';
+menu ();
+?>
 <!DOCTYPE php>
     <html>
         <head>
             <title>TP2 - Exo 1</title>
+            <link rel="stylesheet" href="../../style.css">
         </head>
 
         <body>

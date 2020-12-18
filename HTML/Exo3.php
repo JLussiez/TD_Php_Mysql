@@ -1,6 +1,8 @@
 <?php
-include("Menu.php");
+include '../Menu.php';
+menu ();
 ?>
+<link rel="stylesheet" href="../style.css">
 <table border="1">
         <tr>
             <td> </td>

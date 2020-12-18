@@ -1,9 +1,11 @@
 <?php
-include("Menu.php");
+include '../Menu.php';
+menu ();
 ?>
 <html>
     <head>
         <title>Cours Info</title>
+        <link rel="stylesheet" href="../style.css">
         <link href="exo4.css" rel="stylesheet">
     </head>
     <body>

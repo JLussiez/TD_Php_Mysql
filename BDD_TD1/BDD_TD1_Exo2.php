@@ -1,31 +1,16 @@
 <?php
-include("Menu.php");
+include '../Menu.php';
+menu ();
 ?>
+<<!DOCTYPE html>
 <html>
-        <body>
-            <style type="text/css">
-                div {
-                text-align:center;
-                }
-                div#bandeau {
-                    width:600px;
-                    height:50px;
-                    background-color:#00CCFF;
-                    }
-                div#contenu {
-                    width:600px;
-                    height:400px;
-                    background-color:#FFCC00;
-                    }
-                div#piedpage {
-                    width:600px;
-                    height:50px;
-                    background-color:#33FF99;
-                    clear:both;
-                    }
-            </style>
-                    <div id="bandeau">Bandeau</div>
-                    <div id="contenu">Contenu</div>
-                    <div id="piedpage">Pied de page</div>
-        <body>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="../style.css">
+        <title></title>
+    </head>
+    <body>
+    <img src="Images/Ex2.png">
+    </body>
 </html>

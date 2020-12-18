@@ -1,26 +1,16 @@
-<!DOCTYPE php>
-    <html>
-        <head>
-            <title>TP2 - Exo 1</title>
-        </head>
-
-        <body>
-<?php include('table.php'); ?>
-        </body>
-<style>
-
-    table{
-        border: solid black 1px;
-        margin: 5%;
-    }
-    table td{
-        border: solid blue 1px;
-    }
-
-</style>
-
-    </html>
-    <?php
-highlight_file(__FILE__); 
-
+<?php
+include '../Menu.php';
+menu ();
 ?>
+<<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="../style.css">
+        <title></title>
+    </head>
+    <body>
+    <img src="Images/Ex6.png">
+    </body>
+</html>

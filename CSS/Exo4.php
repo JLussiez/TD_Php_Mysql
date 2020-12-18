@@ -1,7 +1,9 @@
 <?php
-include("Menu.php");
+include '../Menu.php';
+menu ();
 ?>
 <html>
+<link rel="stylesheet" href="../style.css">
         <body>
             <style type="text/css">
                 div {

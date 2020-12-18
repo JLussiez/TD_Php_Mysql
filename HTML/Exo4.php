@@ -1,7 +1,9 @@
 <?php
-include("Menu.php");
+include '../Menu.php';
+menu ();
 ?>
 <html>
+<link rel="stylesheet" href="../style.css">
         <span><b>Index</b></span>
         <a href="Exo1.php"><p>Exercice1</p></a>
         <a href="Exo2.php"><p>Exercice2</p></a> 

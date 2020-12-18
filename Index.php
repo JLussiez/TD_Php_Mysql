@@ -10,5 +10,6 @@
         <h1>Bienvenue sur l'Index de mes exercices :</h1>
 
 <?php
-include("Menu.php");
+include 'Menu.php';
+menu ();
 ?>

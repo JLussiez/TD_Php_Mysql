@@ -1,8 +1,10 @@
 <?php
-include("Menu.php");
+include '../Menu.php';
+menu ();
 ?>
 <html> 
     <head>
+    <link rel="stylesheet" href="../style.css">
         <title>Cours Info1</title>
     </head>
     <body>

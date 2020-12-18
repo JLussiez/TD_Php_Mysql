@@ -1,4 +1,20 @@
 <?php
+include '../../Menu.php';
+menu ();
+?>
+<!doctype html>
+<html lang="fr">
+<head>
+<title>Exo 3 - TP2</title>
+<link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+
+<?php formulaire(18, 17, 10); ?>
+
+</body>
+</html>
+<?php
     $password="azerty";
     $Login="1234";
     function form($Login,$password) {
