@@ -1,6 +1,9 @@
 <?php
-include '../Class/Personnage.php';
-   $Personnage = new Personnage;
-   $Personnage->_construct(100,'Julien');
-   $Personnage->stats();
+include 'Class/Personnage.php';
+
+   $Personnage1 = new Personnage();
+   $Personnage1->_construct('Personnage1');
+
+   $Personnage2 = new Personnage();
+   $Personnage2->_construct('Personnage2');
 ?>

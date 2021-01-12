@@ -1,5 +1,5 @@
 <?php 
-include '../Class/User.php';
-   $Fonction = new User(); 
-   $Fonction->AfficheUser();
+include 'Class/Personnage.php';
+   $Fonction = new Personnage(); 
+   $Fonction->_construct();
 ?>
