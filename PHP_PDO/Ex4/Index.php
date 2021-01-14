@@ -6,4 +6,6 @@ include 'Class/Personnage.php';
 
    $Personnage2 = new Personnage();
    $Personnage2->_construct('Personnage2');
+
+   $Personnage1->Attaquer($Personnage2);
 ?>
