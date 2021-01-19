@@ -1,6 +1,6 @@
 <?php
 
-$BasePDO = new PDO('mysql:host=192.168.65.60;dbname=PDOExo', 'root', 'root');
+$BasePDO = new PDO('mysql:host=192.168.65.60;dbname=PHP_Objet_Exo5', 'root', 'root');
 
 include 'Class/Personnage.php';
 
