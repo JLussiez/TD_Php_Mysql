@@ -1,11 +1,13 @@
 <?php
 
-$BasePDO = new PDO('mysql:host=192.168.65.60;dbname=PHP_Objet_Exo5', 'root', 'root');
-
 include 'Class/Personnage.php';
 
-$User1 = new Personnage(1, $DB);
+$perso1 = new Personnage(1);
+$perso1->Personnage();
 
-$User1->stats();
+$perso1 = new Personnage(2);
+$perso1->Personnage();
 
+$perso1 = new Personnage(3);
+$perso1->Personnage();
 ?>
